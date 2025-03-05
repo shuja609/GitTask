@@ -1,0 +1,20 @@
+# Project Documentation
+
+## Purpose
+This project is created to practice Git commands and version control workflow.
+
+## Features
+- Basic HTML structure with Tailwind CSS
+- JavaScript functionality with an interactive button
+- Well-structured Git workflow for practicing commits, branching, merging, and tagging.
+
+this is the new edit
+
+
+## Setup Instructions
+1. Clone the repository.
+2. Open `index.html` in a browser.
+3. Modify `doc.txt` to practice committing changes.
+4. Use `git add .` to stage changes.
+5. Use `git commit -m "Your commit message"` to commit changes.
+6. Use `git push` to push changes to the remote repository.
